@@ -1,6 +1,9 @@
 # HungerzCounter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+Angular CLI: 15.1.3
+Node:16.15.1
+Package Manager: npm 9.4.0
 
 ## Development server
 
